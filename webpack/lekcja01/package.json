@@ -12,5 +12,9 @@
   "devDependencies": {
     "webpack": "^5.76.1",
     "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "@egjs/flicking": "^4.10.6",
+    "panzoom": "^9.4.3"
   }
 }
